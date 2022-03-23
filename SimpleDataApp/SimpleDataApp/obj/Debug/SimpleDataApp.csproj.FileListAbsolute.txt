@@ -1,0 +1,12 @@
+C:\Users\pc\source\repos\SimpleDataApp\SimpleDataApp\bin\Debug\SimpleDataApp.exe.config
+C:\Users\pc\source\repos\SimpleDataApp\SimpleDataApp\bin\Debug\SimpleDataApp.exe
+C:\Users\pc\source\repos\SimpleDataApp\SimpleDataApp\bin\Debug\SimpleDataApp.pdb
+C:\Users\pc\source\repos\SimpleDataApp\SimpleDataApp\obj\Debug\SimpleDataApp.csprojAssemblyReference.cache
+C:\Users\pc\source\repos\SimpleDataApp\SimpleDataApp\obj\Debug\SimpleDataApp.FillOrCancel.resources
+C:\Users\pc\source\repos\SimpleDataApp\SimpleDataApp\obj\Debug\SimpleDataApp.Navigation.resources
+C:\Users\pc\source\repos\SimpleDataApp\SimpleDataApp\obj\Debug\SimpleDataApp.NewCustomer.resources
+C:\Users\pc\source\repos\SimpleDataApp\SimpleDataApp\obj\Debug\SimpleDataApp.Properties.Resources.resources
+C:\Users\pc\source\repos\SimpleDataApp\SimpleDataApp\obj\Debug\SimpleDataApp.csproj.GenerateResource.cache
+C:\Users\pc\source\repos\SimpleDataApp\SimpleDataApp\obj\Debug\SimpleDataApp.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\SimpleDataApp\SimpleDataApp\obj\Debug\SimpleDataApp.exe
+C:\Users\pc\source\repos\SimpleDataApp\SimpleDataApp\obj\Debug\SimpleDataApp.pdb

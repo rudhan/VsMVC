@@ -1,0 +1,6 @@
+C:\Users\pc\source\repos\NTierWalkthrough\DataEntityTier\bin\Debug\DataEntityTier.dll
+C:\Users\pc\source\repos\NTierWalkthrough\DataEntityTier\bin\Debug\DataEntityTier.pdb
+C:\Users\pc\source\repos\NTierWalkthrough\DataEntityTier\obj\Debug\DataEntityTier.csprojAssemblyReference.cache
+C:\Users\pc\source\repos\NTierWalkthrough\DataEntityTier\obj\Debug\DataEntityTier.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\NTierWalkthrough\DataEntityTier\obj\Debug\DataEntityTier.dll
+C:\Users\pc\source\repos\NTierWalkthrough\DataEntityTier\obj\Debug\DataEntityTier.pdb

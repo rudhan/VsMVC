@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="89cee5ab-4817-4ea1-ade4-c26d8a172ee3" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:8733/Design_Time_Addresses/DataService/Service1/mex" Protocol="mex" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="service.wsdl" MetadataType="Wsdl" ID="a7a3185e-6c6a-4ba4-9fd0-c822bd24ac23" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/DataService/Service1/mex" />
+    <MetadataFile FileName="service.xsd" MetadataType="Schema" ID="7ca2f7b0-b96f-409b-b133-fbae69ee4e53" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/DataService/Service1/mex" />
+    <MetadataFile FileName="service1.xsd" MetadataType="Schema" ID="f8015fbd-2aa3-49a5-8811-52c1b8970648" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/DataService/Service1/mex" />
+    <MetadataFile FileName="DataService.xsd" MetadataType="Schema" ID="a4aa44e7-e95b-4eb7-a9b4-a65da36a402f" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/DataService/Service1/mex" />
+    <MetadataFile FileName="NorthwindDataSet.xsd" MetadataType="Schema" ID="0f6bcd2f-985e-4be7-9ebe-d4148369cffa" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/DataService/Service1/mex" />
+    <MetadataFile FileName="DataEntityTier.xsd" MetadataType="Schema" ID="85839e65-92b8-469e-9eba-5d9e27246dae" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/DataService/Service1/mex" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

@@ -1,0 +1,12 @@
+C:\Users\pc\source\repos\NTierWalkthrough\DataAccessTier\bin\Debug\Northwind.MDF
+C:\Users\pc\source\repos\NTierWalkthrough\DataAccessTier\bin\Debug\Northwind_log.ldf
+C:\Users\pc\source\repos\NTierWalkthrough\DataAccessTier\bin\Debug\DataAccessTier.dll.config
+C:\Users\pc\source\repos\NTierWalkthrough\DataAccessTier\bin\Debug\DataAccessTier.dll
+C:\Users\pc\source\repos\NTierWalkthrough\DataAccessTier\bin\Debug\DataAccessTier.pdb
+C:\Users\pc\source\repos\NTierWalkthrough\DataAccessTier\bin\Debug\DataEntityTier.dll
+C:\Users\pc\source\repos\NTierWalkthrough\DataAccessTier\bin\Debug\DataEntityTier.pdb
+C:\Users\pc\source\repos\NTierWalkthrough\DataAccessTier\obj\Debug\DataAccessTier.csprojAssemblyReference.cache
+C:\Users\pc\source\repos\NTierWalkthrough\DataAccessTier\obj\Debug\DataAccessTier.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\NTierWalkthrough\DataAccessTier\obj\Debug\DataAccessTier.csproj.CopyComplete
+C:\Users\pc\source\repos\NTierWalkthrough\DataAccessTier\obj\Debug\DataAccessTier.dll
+C:\Users\pc\source\repos\NTierWalkthrough\DataAccessTier\obj\Debug\DataAccessTier.pdb

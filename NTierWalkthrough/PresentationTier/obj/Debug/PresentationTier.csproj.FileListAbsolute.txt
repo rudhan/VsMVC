@@ -1,0 +1,13 @@
+C:\Users\pc\source\repos\NTierWalkthrough\PresentationTier\bin\Debug\PresentationTier.exe.config
+C:\Users\pc\source\repos\NTierWalkthrough\PresentationTier\bin\Debug\PresentationTier.exe
+C:\Users\pc\source\repos\NTierWalkthrough\PresentationTier\bin\Debug\PresentationTier.pdb
+C:\Users\pc\source\repos\NTierWalkthrough\PresentationTier\bin\Debug\DataEntityTier.dll
+C:\Users\pc\source\repos\NTierWalkthrough\PresentationTier\bin\Debug\DataEntityTier.pdb
+C:\Users\pc\source\repos\NTierWalkthrough\PresentationTier\obj\Debug\PresentationTier.csprojAssemblyReference.cache
+C:\Users\pc\source\repos\NTierWalkthrough\PresentationTier\obj\Debug\PresentationTier.Form1.resources
+C:\Users\pc\source\repos\NTierWalkthrough\PresentationTier\obj\Debug\PresentationTier.Properties.Resources.resources
+C:\Users\pc\source\repos\NTierWalkthrough\PresentationTier\obj\Debug\PresentationTier.csproj.GenerateResource.cache
+C:\Users\pc\source\repos\NTierWalkthrough\PresentationTier\obj\Debug\PresentationTier.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\NTierWalkthrough\PresentationTier\obj\Debug\PresentationTier.csproj.CopyComplete
+C:\Users\pc\source\repos\NTierWalkthrough\PresentationTier\obj\Debug\PresentationTier.exe
+C:\Users\pc\source\repos\NTierWalkthrough\PresentationTier\obj\Debug\PresentationTier.pdb
